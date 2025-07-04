@@ -1,0 +1,7 @@
+{
+  "type": "function",
+  "function": {
+    "name": "end_current_flow",
+    "description": "Call this function and only this function when you have successfully gathered all the information required by your current Standard Operating Procedure (SOP). This signals to the system that the current conversational flow is complete."
+  }
+}
